@@ -1,16 +1,34 @@
 class MyFirstWebComponent extends HTMLElement {
     constructor() {
         super();
-        console.log('component created');
+        this._shadowRoot = this.attachShadow({mode: 'open'});
     }
 
-    connectedCallback() {        
-        this.textContent = 'My first webcomponent';
-        
-        const shadowRoot = this.attachShadow({mode: 'open'});
-        shadowRoot.innerHTML = `
-          <h1>Bla</h1>
-        `;    
+    connectedCallback() {                      
+        if (!this.hasAttribute('subject'))  {
+            this.setAttribute('subject', 'Frontend');
+        }
+        this._renderPage();
+    }
+               
+    static get observedAttributes() {
+        return ['subject'];
+    }
+
+    attributeChangedCallback(name, oldValue, newValue) {        
+        this._subject = newValue;
+        this._renderPage();
+    }
+
+    _renderPage() {
+        this._shadowRoot.innerHTML = `
+            <style>
+               span {
+                   background-color: green;
+               }
+            </style>
+            <span>${this._subject} Welcome to my First Webcomponent</span>
+        `;
     }
 }
 

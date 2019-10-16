@@ -1,9 +1,29 @@
 <html>
 <body>
   <script src="./index.js"></script>
-  <!-- <script src="./first-webcomponent.js" type="module"></script> -->
-  <script src="./my-first-lithtml.js"></script>
+  <script src="./my-first-webcomponent.js" type="module"></script>
+  <script src="./my-second-webcomponent.js" type="module"></script>
+  
+  <style>
+     span {
+       background-color: yellow;
+     }
 
-  <my-first-web-component></my-first-web-component>
+     .purple {
+       --component-color: purple;
+     }
+
+     .blue {
+       --component-color: blue;
+     }
+  </style>
+
+  <my-first-web-component subject="Hi, there"></my-first-web-component>
+  <br>
+  <my-second-webcomponent class="purple"></my-second-webcomponent>
+  <br>
+  <my-second-webcomponent class="blue"></my-second-webcomponent>
+  <br>
+  <span>This is not a webcomponent</span>
 </body>
 </html>

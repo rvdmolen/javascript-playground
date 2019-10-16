@@ -9,7 +9,12 @@
     "start": "parcel index.html --open"
   },
   "dependencies": {
+    "carbon-cli": "^1.0.3",
+    "global": "^4.4.0",
     "lit-element": "^2.2.1",
     "lit-html": "^1.1.2"
-  }
+  },
+  "browserslist": [
+    "last 1 chrome versions"
+  ]
 }
