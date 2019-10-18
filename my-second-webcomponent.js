@@ -24,9 +24,14 @@ class MySecondWebComponent extends LitElement {
         `
     }
 
+    handleClick() {
+        this.subject = 'Value has changed!!';
+    }
+
     render() {
         return html`
             <span> ${this.subject} Hello World from Second wecomponent</span>
+            <button @click=${this.handleClick}>Click ME</button>
         `
     }
 }
