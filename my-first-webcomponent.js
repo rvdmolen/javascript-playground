@@ -29,9 +29,6 @@ class MyFirstWebComponent extends HTMLElement {
             </style>
             <span>${this._subject} Welcome to my First Webcomponent</span>
         `;
-
-        // npm install @webcomponents/webcomponentsjs
-
     }
 }
 

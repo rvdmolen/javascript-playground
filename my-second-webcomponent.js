@@ -1,6 +1,6 @@
 import { LitElement, html, css } from 'lit-element';
 
-class MySeconsWebComponent extends LitElement {
+class MySecondWebComponent extends LitElement {
 
     constructor() {
         super();
@@ -31,4 +31,4 @@ class MySeconsWebComponent extends LitElement {
     }
 }
 
-customElements.define('my-second-webcomponent', MySeconsWebComponent);
+customElements.define('my-second-webcomponent', MySecondWebComponent);
