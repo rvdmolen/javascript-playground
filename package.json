@@ -9,8 +9,9 @@
     "start": "parcel index.html --open"
   },
   "dependencies": {
-    "lit-element": "^2.2.1",
-    "lit-html": "^1.1.2"
+    "@lion/button": "^0.7.6",
+    "@lion/input": "^0.7.6",
+    "lit-element": "^2.3.1"
   },
   "devDependencies": {
     "parcel": "^1.12.4"

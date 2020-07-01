@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfcaf6d8-2700-42e3-8a51-e2807b2459e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-counter-webcomponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-webcomponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="result" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1drRE1NTDsvu8m9mAaM5vPenvqY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfcaf6d8-2700-42e3-8a51-e2807b2459e1" name="Default Changelist" comment="" />
+      <created>1593181109426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593181109426</updated>
+      <workItem from="1593181110933" duration="900000" />
+      <workItem from="1593182019184" duration="2197000" />
+      <workItem from="1593412704262" duration="1230000" />
+      <workItem from="1593516687600" duration="372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1551" y="-87" key="#HTML" timestamp="1593182392836">
+      <screen x="-2560" y="-186" width="2560" height="1417" />
+    </state>
+    <state x="-1551" y="-87" key="#HTML/-2560.-186.2560.1417/0.23.1680.1027@-2560.-186.2560.1417" timestamp="1593182392836" />
+    <state x="-1669" y="296" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593182900745">
+      <screen x="-2560" y="-186" width="2560" height="1417" />
+    </state>
+    <state x="-1669" y="296" key="#com.intellij.fileTypes.FileTypeChooser/-2560.-186.2560.1417/0.23.1680.1027@-2560.-186.2560.1417" timestamp="1593182900745" />
+    <state x="-2460" y="-88" width="2360" height="1221" key="DiffContextDialog" timestamp="1593419632267">
+      <screen x="-2560" y="-186" width="2560" height="1417" />
+    </state>
+    <state x="-2460" y="-88" width="2360" height="1221" key="DiffContextDialog/-2560.-186.2560.1417/0.23.1680.1027@-2560.-186.2560.1417" timestamp="1593419632267" />
+    <state x="-2460" y="-109" width="2360" height="1240" key="DiffContextDialog/-2560.-209.2560.1440/0.0.1680.1050@-2560.-209.2560.1440" timestamp="1593181752792" />
+    <state x="-1603" y="159" key="RollbackChangesDialog" timestamp="1593181424097">
+      <screen x="-2560" y="-209" width="2560" height="1440" />
+    </state>
+    <state x="-1603" y="159" key="RollbackChangesDialog/-2560.-209.2560.1440/0.0.1680.1050@-2560.-209.2560.1440" timestamp="1593181424097" />
+    <state x="-1572" y="200" key="VcsDiffUtil.ChangesDialog" timestamp="1593181795485">
+      <screen x="-2560" y="-209" width="2560" height="1440" />
+    </state>
+    <state x="-1572" y="200" key="VcsDiffUtil.ChangesDialog/-2560.-209.2560.1440/0.0.1680.1050@-2560.-209.2560.1440" timestamp="1593181795485" />
+    <state x="-1624" y="92" width="740" height="921" key="find.popup" timestamp="1593181841496">
+      <screen x="-2560" y="-186" width="2560" height="1417" />
+    </state>
+    <state x="-1624" y="92" width="740" height="921" key="find.popup/-2560.-186.2560.1417/0.23.1680.1027@-2560.-186.2560.1417" timestamp="1593181841496" />
+  </component>
+</project>
